@@ -2,7 +2,7 @@
 
 A repository for introduction about Movizon Platform.
 
-💻 The main working repository is on [GitHub/movizon][movizon-github]
+💻 The main working organization is on [GitHub.com/movizon][movizon-github]
 
 ## 🙋‍ Introduction
 
